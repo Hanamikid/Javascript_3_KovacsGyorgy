@@ -1,0 +1,29 @@
+body{
+    background-image: url("img/background.png");
+}
+.container{
+    background-color: rgba(125, 24, 51, 1);
+    width: 775px;    
+    margin: auto;
+    padding: 5px;
+}
+.nagy{
+    width: 250px;
+    height: 318px;
+    float: left;
+}
+.kicsi{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+img{
+    border: 7px solid yellow;
+    margin: 1px;
+}
+#kvaff{
+    float: left;
+}
+#cikesz{
+    float: left;
+}
